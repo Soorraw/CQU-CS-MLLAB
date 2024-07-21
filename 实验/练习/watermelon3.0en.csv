@@ -1,0 +1,18 @@
+id,color,root,knock,texture,umbilical,touch,density,sugar content,good melon
+1,green,curled up,cloudy,clear,concave,hard slip,0.697,0.46,yes
+2,black,curled up,dull,clear,concave,hard slip,0.774,0.376,yes
+3,black,curled up,cloudy,clear,concave,hard slip,0.634,0.264,yes
+4,green,curled up,dull,clear,concave,hard slip,0.608,0.318,yes
+5,pale,curled up,cloudy,clear,concave,hard slip,0.556,0.215,yes
+6,green,slightly curled,cloudy,clear,slightly concave,soft sticky,0.403,0.237,yes
+7,black,slightly curled,cloudy,slightly paste,slightly concave,soft sticky,0.481,0.149,yes
+8,black,slightly curled,cloudy,clear,slightly concave,hard slip,0.437,0.211,yes
+9,black,slightly curled,dull,slightly paste,slightly concave,hard slip,0.666,0.091,no
+10,green,stiff,crisp,clear,flat,soft sticky,0.243,0.267,no
+11,pale,stiff,crisp,fuzzy,flat,hard slip,0.245,0.057,no
+12,pale,curled up,cloudy,fuzzy,flat,soft sticky,0.343,0.099,no
+13,green,slightly curled,cloudy,slightly paste,concave,hard slip,0.639,0.161,no
+14,pale,slightly curled,dull,slightly paste,concave,hard slip,0.657,0.198,no
+15,black,slightly curled,cloudy,clear,slightly concave,soft sticky,0.36,0.37,no
+16,pale,curled up,cloudy,fuzzy,flat,hard slip,0.593,0.042,no
+17,green,curled up,dull,slightly paste,slightly concave,hard slip,0.719,0.103,no
